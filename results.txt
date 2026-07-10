@@ -1,0 +1,27 @@
+Feature Engineering & Data Preprocessing Results
+
+Dataset Used:
+Titanic Dataset
+
+Techniques Applied:
+1. Missing Value Imputation
+2. Feature Selection
+3. Feature Engineering
+4. Label Encoding
+5. One-Hot Encoding
+6. Standard Scaling
+7. Min-Max Scaling
+
+Features Created:
+- FamilySize
+- IsAlone
+- Title
+
+Outcome:
+- Missing values removed
+- Categorical variables converted to numerical format
+- Numerical features scaled
+- Dataset prepared for machine learning
+
+Output File:
+Titanic_Preprocessed.csv
